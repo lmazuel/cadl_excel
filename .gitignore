@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Project specific
+cadl_tests_report.xlsx
+*.json
